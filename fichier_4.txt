@@ -1,0 +1,9 @@
+Étape 4 : Déploiement
+
+Échéance Vendredi 02 Septembre.
+
+•Création d'une API du modèle de Machine Learning ou de l'application Dash.
+
+•Réaliser des tests unitaires sur votre API•Conteneuriser cette API via Docker et les bases de données.
+
+•Orchestrer les différents services via Kubernetes.
