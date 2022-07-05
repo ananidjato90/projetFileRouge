@@ -9,6 +9,7 @@ projet fil rouge : création d'API
 
 
 Étape 1 : Découverte des sources de données disponible. 
+
 Échéance Vendredi 15 Juillet.
 
 •Définir le contexte et le périmètre du projet (ne sous-estimez pas cette
@@ -24,14 +25,16 @@ exemples de données collectées.
 
 
 Étape 2 : Organisation des données. 
+
 Échéance Vendredi 29 Juillet.
 
 •Il s'agira de la partie la plus importante de votre projet où vous ferez le
 coeur du métier de Data Engineer.
 
-•On vous demande d'organiser les données via différentes bases de
-données :
+•On vous demande d'organiser les données via différentes bases de données :
+
 -Relationnelle
+
 -NoSQL
 
 •Il faudra penser à l'architecture des données, notamment comment relier les
@@ -47,6 +50,7 @@ différentes données entre elles.
 
 
 Etape 3 : Consommation des données. 
+
 Échéance Vendredi 05 Août.
 
 •Une fois vos données organisées, il faut les consommer, ce n'est pas le rôle
@@ -57,22 +61,28 @@ complète, vous devez avoir cette partie.
 dessus ou un tableau de bord avec Dash
 
 •Livrable attendu :
+
 -Le notebook doit être propre, accompagné de dataviz et commenté. Les
 cellules de code doivent être précédées par des cellules de texte.
+
 -Fichier python lançant le Dash
 
 
 Étape 4 : Déploiement. 
+
 Échéance Vendredi 02 Septembre.
 
 •Création d'une API du modèle de Machine Learning ou de l'application Dash.
 
-•Réaliser des tests unitaires sur votre API•Conteneuriser cette API via Docker et les bases de données.
+•Réaliser des tests unitaires sur votre API
+
+•Conteneuriser cette API via Docker et les bases de données.
 
 •Orchestrer les différents services via Kubernetes.
 
 
 Étape 5 : Automatisation des flux( Documentation et codes). 
+
 Échéance Vendredi 09 Septembre.
 
 •Automatiser les différentes précédentes étapes pour que l'application soit
@@ -83,6 +93,7 @@ application.
 
 
 Étape 6 : Démonstration de l'application + Soutenances (30 minute).
+
 Échéance Lundi 19 Septembre ou Mardi 20 Septembre.
 
 •Vulgariser le déroulement de votre projet.
