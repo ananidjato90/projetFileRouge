@@ -1,1 +1,68 @@
 projet fil rouge : création d'API
+
+•Étape 0/ Cadrage (Notre première réunion) : Échéance Vendredi 08
+Juillet
+•Introduction de chaque membre de l'équipe
+•Explication du cadre du projet (les différentes étapes)
+
+
+•Étape 1 / Découverte des sources de données disponible : Échéance
+Vendredi 15 Juillet
+•Définir le contexte et le périmètre du projet (ne sous-estimez pas cette
+étape)
+•Prise en main des différentes sources de données(explorer les API fournis
+mais qui vous sont disponibles, les pages webs dont vous allez appliquer le
+webscraping (il faudra observer leur structure))
+•Livrable attendu: La tâche est relativement simple, vous devrez fournir un
+rapport expliquant les différentes sources de données accompagné des
+exemples de données collectées
+
+
+•Étape 2/ Organisation des données : Échéance Vendredi 29 Juillet
+•Il s'agira de la partie la plus importante de votre projet où vous ferez le
+coeur du métier de Data Engineer.
+•On vous demande d'organiser les données via différentes bases de
+données :
+•Relationnelle
+•NoSQL
+•Il faudra penser à l'architecture des données, notamment comment relier les
+différentes données entre elles.
+•Livrable :
+•Tout document expliquant l'architecture choisie (Diagramme UML)
+•Fichier implémentant les bases de données
+•Fichier de requête
+
+
+•Etape 3 / Consommation des données : Échéance Vendredi 05 Août
+•Une fois vos données organisées, il faut les consommer, ce n'est pas le rôle
+initial d'un Data Engineer, mais pour que la pipeline des données soit
+complète, vous devez avoir cette partie.
+•Il sera attendu de faire un notebook où vous ferez du Machine Learning
+dessus ou un tableau de bord avec Dash
+•Livrable attendu :
+•Le notebook doit être propre, accompagné de dataviz et commenté. Les
+cellules de code doivent être précédées par des cellules de texte.
+•Fichier python lançant le Dash
+
+
+•Étape 4/ Déploiement : Échéance Vendredi 02 Septembre
+•Création d'une API du modèle de Machine Learning ou de l'application Dash
+•Réaliser des tests unitaires sur votre API•Conteneuriser cette API via Docker et les bases de données
+•Orchestrer les différents services via Kubernetes
+
+
+•Étape 5 / Automatisation des flux( Documentation et codes) : Échéance
+Vendredi 09 Septembre
+•Automatiser les différentes précédentes étapes pour que l'application soit
+fonctionnel en continu
+•Mettez en place une pipeline CI/CD pour mettre à jour efficacement votre
+application
+
+
+•Étape 6/ Démonstration de l'application + Soutenances (30 minute):
+Échéance Lundi 19 Septembre ou Mardi 20 Septembre
+•Vulgariser le déroulement de votre projet
+•Expliquer l'architecture choisie lors de l'organisation des données
+•Montrer que l'application est fonctionnelle
+•Il ne sera pas attendu de parler en détail de la section consommation des
+données
