@@ -1,0 +1,11 @@
+Étape 5 : Automatisation des flux( Documentation et codes) 
+
+Échéance Vendredi 09 Septembre.
+
+•Automatiser les différentes précédentes étapes pour que l'application soit
+fonctionnel en continu.
+
+•Mettez en place une pipeline CI/CD pour mettre à jour efficacement votre
+application.
+
+
